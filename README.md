@@ -12,7 +12,12 @@ This repository demonstrates a practical approach to implementing PII data maski
 
 The examples included in this repo show end-to-end workflows covering configuration, transformation logic, and best-practice patterns — making it easier for teams to adopt a secure and standardized approach to PII masking across environments.
 
+
+
 **Tools needed:**
+
 Microsoft SQL Srver Integration Service (SSIS)
+
 MySQL database
+
 Kingswaysoft productivity pack for Data anonymization - https://www.kingswaysoft.com/solutions/developer-productivity/data-generation-anonymization/data-anonymizer-component
