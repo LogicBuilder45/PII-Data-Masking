@@ -4,15 +4,11 @@ Personally Identifiable Information (PII) refers to any data that can be used to
 
 This repository demonstrates a practical approach to implementing PII data masking using SQL Server Integration Services (SSIS) along with the KingswaySoft Data Anonymizer component. The goal of this repo is to help data engineers and ETL developers understand how to:
 
-Identify PII fields in source systems
-
-Apply consistent and repeatable masking rules
-
-Use KingswaySoft anonymization functions in SSIS
-
-Preserve data integrity for downstream reporting & testing
-
-Build reusable masking patterns for enterprise ETL pipelines
+  - Identify PII fields in source systems
+  - Apply consistent and repeatable masking rules
+  - Use KingswaySoft anonymization functions in SSIS
+  - Preserve data integrity for downstream reporting & testing
+  - Build reusable masking patterns for enterprise ETL pipelines
 
 The examples included in this repo show end-to-end workflows covering configuration, transformation logic, and best-practice patterns — making it easier for teams to adopt a secure and standardized approach to PII masking across environments.
 
