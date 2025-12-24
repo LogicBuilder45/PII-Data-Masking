@@ -18,6 +18,8 @@ The examples included in this repo show end-to-end workflows covering configurat
 
 Microsoft SQL Srver Integration Service (SSIS)
 
-MySQL database
+SQL server database
 
 Kingswaysoft productivity pack for Data anonymization - https://www.kingswaysoft.com/solutions/developer-productivity/data-generation-anonymization/data-anonymizer-component
+
+Visual Studio
