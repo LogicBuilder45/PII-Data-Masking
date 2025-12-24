@@ -1,4 +1,5 @@
 **PII Data Masking with SSIS & KingswaySoft Data Anonymizer**
+
 **1. What is PII and why mask it?**
 
 Personally Identifiable Information (PII) is any data that can be used to identify a specific person. Typical examples in a SQL Server database:
