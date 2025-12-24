@@ -16,10 +16,4 @@ The examples included in this repo show end-to-end workflows covering configurat
 
 **Tools needed:**
 
-Microsoft SQL Srver Integration Service (SSIS)
-
-SQL server database
-
-Kingswaysoft productivity pack for Data anonymization - https://www.kingswaysoft.com/solutions/developer-productivity/data-generation-anonymization/data-anonymizer-component
-
-Visual Studio
+refer https://github.com/LogicBuilder45/PII-Data-Masking/blob/main/Tool-set
