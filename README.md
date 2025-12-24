@@ -1,4 +1,4 @@
-#PII Data Masking using SSIS & KingswaySoft Productivity pack
+**PII Data Masking using SSIS & KingswaySoft Productivity pack**
 
 Personally Identifiable Information (PII) refers to any data that can be used to identify an individual — such as name, address, email, phone number, SSN, customer IDs, or financial account details. Protecting PII is critical for security, privacy, regulatory compliance (GDPR, HIPAA, CPRA, etc.), and to prevent misuse of sensitive information. In analytics, testing, and data-sharing environments, masking PII helps ensure that real identities are never exposed while still preserving data usability.
 
